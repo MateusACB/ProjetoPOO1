@@ -78,6 +78,7 @@ public class RedeSocial {
                     menuPerfil(i);
                 } else {
                     System.out.println("Senha incorreta");
+                    menuRedeSocial();
                 }
             }
         }
