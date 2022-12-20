@@ -30,6 +30,7 @@ public class RedeSocial {
             }
         } while (!opcao.equalsIgnoreCase("F"));
         System.out.println("Programa encerrado");
+        System.exit(0);
     }
 
     void cadastrarPerfil() {
